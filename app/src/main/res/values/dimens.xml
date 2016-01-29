@@ -1,0 +1,17 @@
+<resources>
+  <dimen name="content_padding">16dp</dimen>
+  <dimen name="overlay_width">96dp</dimen>
+  <dimen name="overlay_height">25dp</dimen>
+  <!-- TODO move to values-23/ as overlay_height overload when M is released. -->
+  <dimen name="overlay_height_m">24dp</dimen>
+  <dimen name="preference_height">48dp</dimen>
+  
+      <!-- The padding on the global screenshot background image -->
+    <dimen name="global_screenshot_bg_padding">20dp</dimen>
+    <!-- Width for the notification panel and related windows -->
+    <dimen name="match_parent">-1px</dimen>
+    <dimen name="standard_notification_panel_width">416dp</dimen> <!-- includes notification_side_padding on each side -->
+    <dimen name="notification_panel_width">@dimen/match_parent</dimen>
+    <!-- Height of a large notification in the status bar -->
+    <dimen name="notification_max_height">256dp</dimen>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">录屏</string>
+    <string name="shortcut_name">启动</string>
+    <string name="clear">清除</string>
+    <string name="record">准备…</string>
+    <string name="countdown_one">1…</string>
+    <string name="countdown_two">2…</string>
+    <string name="countdown_three">3…</string>
+    <string name="launch_overlay">准备录制</string>
+    <string name="preferences">参数</string>
+    <string name="countdown">三秒倒计时</string>
+    <string name="recents_hide">隐藏最近使用程序</string>
+    <string name="video_size_percentage">视频尺寸</string>
+    <string name="notification_captured_title">屏幕录制拍摄.</string>
+    <string name="notification_captured_subtitle">触摸查看屏幕录像.</string>
+    <string name="notification_captured_share">分享</string>
+    <string name="notification_captured_delete">删除</string>
+    <string name="notification_recording_title">录制屏幕中.</string>
+    <string name="notification_recording_subtitle">触摸右上角停止录像.</string>
+    <string name="recording_notification">录像通知</string>
+    <string name="show_touches">显示触摸区域</string>
+
+    <string name="share">分享</string>
+    <string name="screenshot_saving_ticker" msgid="7403652894056693515">"正在保存屏幕截图..."</string>
+    <string name="screenshot_saving_title" msgid="8242282144535555697">"正在保存屏幕截图..."</string>
+    <string name="screenshot_saving_text" msgid="2419718443411738818">"正在保存屏幕截图。"</string>
+    <string name="screenshot_saved_title" msgid="6461865960961414961">"已抓取屏幕截图。"</string>
+    <string name="screenshot_saved_text" msgid="1152839647677558815">"触摸可查看您的屏幕截图。"</string>
+    <string name="screenshot_failed_title" msgid="705781116746922771">"无法抓取屏幕截图。"</string>
+    <string name="screenshot_failed_text" msgid="1260203058661337274">"无法进行屏幕截图，原因可能是存储空间不足，或者该应用或您所属的单位不允许执行此操作。"</string>
+    <string name="screen_shot">截屏</string>
+    <string name="screenshot_delete_action">删除</string>
+    <string name="screenshot_delete_confirmation">屏幕截图已删除。</string>
+    <string name="launcher_name">@string/app_name</string>
+</resources>
